@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.{cmd,[cC][mM][dD]} text eol=crlf
+*.{bat,[bB][aA][tT]} text eol=crlf
+*.py text diff=python
+*.ipynb text
+requirements.txt text
+Dockerfile text
+.gitignore text
+.gitattributes text
+README.md text diff=markdown 
